@@ -151,14 +151,14 @@ D    | Once every 2 weeks
 E    | Immediate
 
 ## Termination
-Futureworkz will only keep rank A and B coders.
+Agilelab will only keep rank A and B coders.
 
 Rank C coders who did not improve to rank B after 6 tests will be considered for termination.  
 Rank D coders who did not improve to rank C after 2 tests will be considered for termination.  
 Rank E coders will be considered for termination immediately.
 
 ## Passing the Test
-Futureworkz wants as many coders to pass the test as possible without compromising the integrity of the test. 
+Agilelab wants as many coders to pass the test as possible without compromising the integrity of the test. 
 
 A Ruby evaluation test is generally 80% fundamentals and 20% critical thinking. As long as you have a strong foundation in fundamentals, you will be able to pass the test and even aim for an A grade. Hence, you should focus on improving your fundamentals.
 
@@ -238,7 +238,7 @@ A list of common things to create a cheatsheet for:
 - Common Rails methods such as view helpers, routes, etc
 
 ### Practise Drills
-[Futureworkz drills](../drills/README.md) are common coding conventions and practices we adopted in every development project. Ruby evaluation test requires the same coding standard as drills. You should be familiar with all Futureworkz drills and able to do them without thinking or referencing.
+[Agilelab drills](../drills/README.md) are common coding conventions and practices we adopted in every development project. Ruby evaluation test requires the same coding standard as drills. You should be familiar with all Agilelab drills and able to do them without thinking or referencing.
 
 A good way to practice is to repeat a drill for at least 5 times or until you are able to do the drill purely from memory.
 

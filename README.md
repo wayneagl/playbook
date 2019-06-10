@@ -1,9 +1,9 @@
-## Purpose of Futureworkz Playbook
-This document attempts to describe how Futureworkz employee behaves together as an organization - how we think, how we talk, how we respond, etc. The main purpose is to align everyone in Futureworkz to work together, be happier and spend more meaningful time in work while producing a profit to sustain and grow the company.
+## Purpose of Agilelab Playbook
+This document attempts to describe how Agilelab employee behaves together as an organization - how we think, how we talk, how we respond, etc. The main purpose is to align everyone in Agilelab to work together, be happier and spend more meaningful time in work while producing a profit to sustain and grow the company.
 
-Futureworkz is a company and like every company, Futureworkz needs profits in order to survive and grow. Futureworkz relies heavily on the people working in it in order to generate a sustainable profit.
+Agilelab is a company and like every company, Agilelab needs profits in order to survive and grow. Agilelab relies heavily on the people working in it in order to generate a sustainable profit.
 
-We strongly encourage any employee of Futureworkz to improve this playbook by submitting a pull request (for coders) or raise an issue (for non-coders).
+We strongly encourage any employee of Agilelab to improve this playbook by submitting a pull request (for coders) or raise an issue (for non-coders).
 
 _This playbook is not made for you, it is made from you._
 
@@ -43,7 +43,7 @@ As our industry is a fast learning and ever-changing industry, a learning cultur
 
 Learning is not just accumulating knowledge. We apply them, experiment them, play with them until we understand them. A learning culture is not just a culture with lots of presentations to attend. It also encompass the curiosity to experiment and the dare-ness to fail.
 
-Management has the understanding that mistakes must be made in order to learn new things while employees take the initiatives to learn, experiment and share new things in Futureworkz.
+Management has the understanding that mistakes must be made in order to learn new things while employees take the initiatives to learn, experiment and share new things in Agilelab.
 
 While we have our daily work and deadlines to meet, we strive to learn on the job (eg. trying a new Ruby gem) or spend after-work time (eg. attend a Ruby Meetup) to advance ourselves.
 
@@ -51,7 +51,7 @@ We also constantly strive to present what we have learned so that others may ben
 
 ## Organisation Culture
 ### Curious and dare to try new things
-There is always a better and newer thing in the Internet. We should not stay entrenched in yesterday’s thinking. It is okay in Futureworkz to try something new and fail horribly. In fact, we know that most of the time, the newer things will probably fail but that once in every while, we will find something that is really great!
+There is always a better and newer thing in the Internet. We should not stay entrenched in yesterday’s thinking. It is okay in Agilelab to try something new and fail horribly. In fact, we know that most of the time, the newer things will probably fail but that once in every while, we will find something that is really great!
 
 ### Learn and share with each other
 We are active learners and do not shy from anything new. We also recognise that the best way to learn is to teach. Through teaching, we share our knowledge. We are not afraid that our knowledge is wrong or too low. We are only afraid that our mind is closed from learning.
@@ -63,7 +63,7 @@ Without vision, we are lost. In whatever we do, we always strive towards being t
 No knowledge in the world is useful until it can be applied. To apply knowledge, we need discipline in our work and in our life. While we can be crazy and unorthodox in our thinking, we exert discipline in our execution and conduct.
 
 ## Common Working Behaviors
-To give you a better sense of how we work in Futureworkz, here's some things you can do:
+To give you a better sense of how we work in Agilelab, here's some things you can do:
 - Things are always changing internally due to improvements, so get used to new ways of working
 - You can share our opinions openly and honestly
 - You can talk back to your bosses because they value your ideas and opinions
@@ -73,37 +73,37 @@ To give you a better sense of how we work in Futureworkz, here's some things you
 - If you want coffee, ask others (including your bosses) and order together
 
 ## Top Level Management
-Steven Yap is the CEO and CTO of Futureworkz.
+Steven Yap is the CEO and CTO of Agilelab.
 Primary main responsibilities:
 - To train 10 XP coders
 - To provide IT and business consultation to clients
-- To ensure a growing working environment in Futureworkz
-- To provide vision and direction for Futureworkz
+- To ensure a growing working environment in Agilelab
+- To provide vision and direction for Agilelab
 
-Lawrence is the COO + CFO of Futureworkz.
+Lawrence is the COO + CFO of Agilelab.
 Primary main responsibilities:
-- To manage the financial status of Futureworkz
+- To manage the financial status of Agilelab
 - To manage the Vietnam operations
 
-Changs is the CMO of Futureworkz.
+Changs is the CMO of Agilelab.
 Primary main responsibilities:
 - To develop new business units
 - To provide IT and business consultation to clients
 - To ensure a viable marketing and sales process
 
-Sujata is the Project Manager of Futureworkz.
+Sujata is the Project Manager of Agilelab.
 Primary main responsibilities:
 - To ensure project development is on track
 - To resolve project development conflicts
 
-James is the Lead Software Engineer of Futureworkz.
+James is the Lead Software Engineer of Agilelab.
 Primary main responsibilities:
 - To guide & support the technical aspects of projects
 - To support the continuous education of coders
-- To push new technologies adoption in Futureworkz
+- To push new technologies adoption in Agilelab
 
 ## Project Engagement Rule
-Futureworkz will only engage a project if
+Agilelab will only engage a project if
 - the project will enhance our reputation in the industry
 - the project enhance our knowledge capital in terms of implementing new technologies
 - the project is profitable to the company
@@ -133,22 +133,22 @@ Software requires good brains to create good codes and good processes. Working o
 Dress as you like - nudes are welcome too.
 
 ## Coding Standard
-We have high regards for code quality in Futureworkz. Code quality affects speed of development, maintainability and coder's happiness.
+We have high regards for code quality in Agilelab. Code quality affects speed of development, maintainability and coder's happiness.
 
 To maintain high quality coding standard in our app, we do regular [code review](protocols/code-review/README.md). We also conduct a [Ruby evaluation test](protocols/ruby-evaluation-test/README.md) every alternate Saturday 9am.
 
 ## Coder Development Education
 We view the education of our coders seriously.
 
-Coder in Futureworkz starts with getting familiar with our [drills](protocols/drills/README.md). Through practicing our drills, coder understands Futureworkz coding standards and practices.
+Coder in Agilelab starts with getting familiar with our [drills](protocols/drills/README.md). Through practicing our drills, coder understands Agilelab coding standards and practices.
 
-Futureworkz adopts a [code review](protocols/code-review/README.md) practice for all development work. Coder will learn, teach and reinenforce best coding standards through the code review sessions with each other.
+Agilelab adopts a [code review](protocols/code-review/README.md) practice for all development work. Coder will learn, teach and reinenforce best coding standards through the code review sessions with each other.
 
 Tea break presentations happens on every Monday, Wednesday and Friday during the tea break (320PM to 340PM). Tea break presentations are short 20 mins Ruby presentations where all coders learn from each other on Ruby knowledge.
 
-Futureworkz hosts the [Saigon.rb Ruby meetup](http://www.meetup.com/saigon-rb/) in our office on the first Tuesday of every month. We see it as a way to give back to the Ruby community as well as another learning channel for our coders.
+Agilelab hosts the [Saigon.rb Ruby meetup](http://www.meetup.com/saigon-rb/) in our office on the first Tuesday of every month. We see it as a way to give back to the Ruby community as well as another learning channel for our coders.
 
-Finally, we evaluate the improvement and development of our coders through our [Ruby evaluation test](protocols/ruby-evaluation-test/README.md). Evaluation shows the improvements in our coder's education in Futureworkz.
+Finally, we evaluate the improvement and development of our coders through our [Ruby evaluation test](protocols/ruby-evaluation-test/README.md). Evaluation shows the improvements in our coder's education in Agilelab.
 
 ## Problem Resolution
 If stuck, google by yourself for 10 mins.

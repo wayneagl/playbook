@@ -2,7 +2,7 @@
 Every app requires a database. Data in database can sometimes be more important than the app itself. For example, a million dollar marketing campaign captured one million users in the app.
 
 ## Database of Choice
-Futureworkz uses PostgreSQL as the default database for every project unless client specified a different database.
+Agilelab uses PostgreSQL as the default database for every project unless client specified a different database.
 
 ## Rails Migration
 All database schema changes are done through rails migration and only through rails migration. This ensure that the database schema is tracked in git and duplicable to other developers or environments.
@@ -25,7 +25,7 @@ If we have production data and development data, we can separate them easily fro
 ### Making db:seed indempotent
 Db seed must be [idempotent](https://en.wikipedia.org/wiki/Idempotence). In simple terms, it means that one can run `rake db:seed` many times but the data is not repeated in the database.
 
-Futureworkz's recommended practise is to use [`#first_or_create`](http://apidock.com/rails/ActiveRecord/Relation/first_or_create):
+Agilelab's recommended practise is to use [`#first_or_create`](http://apidock.com/rails/ActiveRecord/Relation/first_or_create):
 ```ruby
 # db/seeds.rb
 book_category = Category.where(title: 'Books').first_or_create!(title: 'Books')

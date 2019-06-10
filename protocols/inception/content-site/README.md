@@ -39,8 +39,8 @@ Generally, we will state the below limitations:
 ## How Timeline is Managed
 Due to the slow approval rate, development will pause in between approval phases. Hence, client will not be charged for man day during pausing.
 
-However, this imposes tremendous resource planning blockage for Futureworkz. Therefore, client must agree to allow up 2-3 working days whenever we resume development.
+However, this imposes tremendous resource planning blockage for Agilelab. Therefore, client must agree to allow up 2-3 working days whenever we resume development.
 
 In total, the project will not exceed the agreed number of sprints else client will be charged for additional man days.
 
-Futureworkz tracks man days used via Hubstaff.
+Agilelab tracks man days used via Hubstaff.

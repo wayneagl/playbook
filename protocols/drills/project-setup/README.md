@@ -73,7 +73,7 @@ You also need to add `config.include FactoryGirl::Syntax::Methods` to your `/spe
 
 ## Setup Git
 We use [Gitlab](http://gitlab.com) as a remote repository to store our code.  
-We have Futureworkz group in Gitlab and all projects should be parked under the Futureworkz namespace.  
+We have Agilelab group in Gitlab and all projects should be parked under the Agilelab namespace.  
 Please approach the system administrator to create and get the respository url.
 
 ```sh

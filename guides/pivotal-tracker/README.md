@@ -27,7 +27,7 @@ It is the name of the Story, it should be something straight-forward and easy to
   - Completion of certain important milestone, such as the project is ready for Alpha/Beta testing or full project completion. It is also used to demark swim lane 1, 2 and 3.
 
 ### Points
-Futureworkz adapts a [Fibonacci](https://en.wikipedia.org/wiki/Fibonacci_number) point system: 
+Agilelab adapts a [Fibonacci](https://en.wikipedia.org/wiki/Fibonacci_number) point system: 
 
 + 1 point
   - A simple feature that estimated to take half a day.
@@ -80,7 +80,7 @@ When the features can be broken down into even smaller pieces, the team will inp
 ## Activity
 This is the place where all the conversation is being track and record, include design image, content for the respective Story, why the Story is being reject, additional enhancement etc...
 
-Futureworkz strongly encourage all users to keep the communication to the commenting function of Activity. This makes the communication contextual, neat￼and tidy. Communication such as email or IM may cause potential miscommunication due to lack of context or improper format.
+Agilelab strongly encourage all users to keep the communication to the commenting function of Activity. This makes the communication contextual, neat￼and tidy. Communication such as email or IM may cause potential miscommunication due to lack of context or improper format.
 
 ![Fig 4](../../images/pivotal-tracker/activity.png)
 

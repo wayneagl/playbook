@@ -1,5 +1,5 @@
 # Code Review Practice
-This protocol states how we do code review in Futureworkz.
+This protocol states how we do code review in Agilelab.
 
 ## Code Review System
 Every coder must have another coder to review his code. This ensures high quality on the code deployed to production and also maximise learning for the coder and the reviewer.

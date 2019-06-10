@@ -1,5 +1,5 @@
 # Drills
-Drills are a set of standard coding conventions we follow in Futureworkz.   
+Drills are a set of standard coding conventions we follow in Agilelab.   
 It defines the conventions and common practices we adopted in every project.  
 We develop all projects based on this set of drills so that coding is aligned and co-development is easy.
 

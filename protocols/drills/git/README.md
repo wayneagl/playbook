@@ -43,7 +43,7 @@ We practice using pull request in Github or merge request in Gitlab to send in c
 - When we created a rails project (eg. after we run `rails new .`), we always commit the Rails generated files as `Initial commit`
 
 ## How to practise this drill?
-- Find a project to do that is simple such as [this](https://github.com/futureworkz/rails-test-1)
+- Find a project to do that is simple
 - Setup your own Gitlab repository for this project
 - Start developing on your feature branch
 - Write good commit message when you are committing

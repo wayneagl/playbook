@@ -1,6 +1,6 @@
 # Ruby Idioms
 This is a collection Ruby idioms that we adopted in our coding style.
-This is the style in which Futureworkz recommends for greater readability between coders.
+This is the style in which Agilelab recommends for greater readability between coders.
 
 ## No use of while or for loop or loops of any kinds
 We highly discourage usage of loops.
